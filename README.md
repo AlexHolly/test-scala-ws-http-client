@@ -1,6 +1,7 @@
 ## Dependencies ##
 
 https://github.com/AlexHolly/util-scala-ws-http-client
+
 https://github.com/AlexHolly/ip-manager
 
 ## Test, Run & Build ##
